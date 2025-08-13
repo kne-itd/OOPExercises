@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transportmidler", "Transpor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skoleadministration", "Skoleadministration\Skoleadministration.csproj", "{A602F57B-9452-4D1F-AB47-49E713E7C0D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankkonti", "Bankkonti\Bankkonti.csproj", "{93ADDD42-A9DD-4D4C-AF9F-A0281B5B4E2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A602F57B-9452-4D1F-AB47-49E713E7C0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A602F57B-9452-4D1F-AB47-49E713E7C0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A602F57B-9452-4D1F-AB47-49E713E7C0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93ADDD42-A9DD-4D4C-AF9F-A0281B5B4E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93ADDD42-A9DD-4D4C-AF9F-A0281B5B4E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93ADDD42-A9DD-4D4C-AF9F-A0281B5B4E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93ADDD42-A9DD-4D4C-AF9F-A0281B5B4E2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
