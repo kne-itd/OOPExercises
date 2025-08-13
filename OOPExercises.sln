@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dyrepark", "Dyrepark\Dyrepa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transportmidler", "Transportmidler\Transportmidler.csproj", "{A0FF5D00-4544-43BD-B748-7996A107851B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skoleadministration", "Skoleadministration\Skoleadministration.csproj", "{A602F57B-9452-4D1F-AB47-49E713E7C0D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A0FF5D00-4544-43BD-B748-7996A107851B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0FF5D00-4544-43BD-B748-7996A107851B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0FF5D00-4544-43BD-B748-7996A107851B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A602F57B-9452-4D1F-AB47-49E713E7C0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A602F57B-9452-4D1F-AB47-49E713E7C0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A602F57B-9452-4D1F-AB47-49E713E7C0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A602F57B-9452-4D1F-AB47-49E713E7C0D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
