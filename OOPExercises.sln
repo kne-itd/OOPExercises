@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skoleadministration", "Skol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankkonti", "Bankkonti\Bankkonti.csproj", "{93ADDD42-A9DD-4D4C-AF9F-A0281B5B4E2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG", "RPG\RPG.csproj", "{FBADD1DF-7092-4C6F-870C-48C62BA93BC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{93ADDD42-A9DD-4D4C-AF9F-A0281B5B4E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93ADDD42-A9DD-4D4C-AF9F-A0281B5B4E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93ADDD42-A9DD-4D4C-AF9F-A0281B5B4E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBADD1DF-7092-4C6F-870C-48C62BA93BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBADD1DF-7092-4C6F-870C-48C62BA93BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBADD1DF-7092-4C6F-870C-48C62BA93BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBADD1DF-7092-4C6F-870C-48C62BA93BC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
