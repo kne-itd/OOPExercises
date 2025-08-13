@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36127.28 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dyrepark", "Dyrepark\Dyrepark.csproj", "{49D10282-1FB1-42B6-8EE4-AD56965009FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transportmidler", "Transportmidler\Transportmidler.csproj", "{A0FF5D00-4544-43BD-B748-7996A107851B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{49D10282-1FB1-42B6-8EE4-AD56965009FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49D10282-1FB1-42B6-8EE4-AD56965009FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49D10282-1FB1-42B6-8EE4-AD56965009FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0FF5D00-4544-43BD-B748-7996A107851B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FF5D00-4544-43BD-B748-7996A107851B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FF5D00-4544-43BD-B748-7996A107851B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FF5D00-4544-43BD-B748-7996A107851B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
